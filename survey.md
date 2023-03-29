@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black
+Favorite food: Sushi
+Favorite musician/band: Pink Floyd
+Favorite movie: Rocky
+Requested grade in the course: 101
